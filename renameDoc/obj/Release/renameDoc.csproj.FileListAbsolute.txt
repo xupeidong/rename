@@ -1,0 +1,13 @@
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Release\renameDoc.exe.config
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Release\renameDoc.exe.manifest
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Release\renameDoc.application
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Release\renameDoc.exe
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Release\renameDoc.pdb
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.Form1.resources
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.Properties.Resources.resources
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.csproj.GenerateResource.cache
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.csproj.CoreCompileInputs.cache
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.exe.manifest
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.application
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.exe
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Release\renameDoc.pdb

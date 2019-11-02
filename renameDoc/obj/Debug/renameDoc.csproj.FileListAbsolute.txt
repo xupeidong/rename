@@ -1,0 +1,14 @@
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Debug\renameDoc.exe.config
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Debug\renameDoc.exe.manifest
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Debug\renameDoc.application
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Debug\renameDoc.exe
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\bin\Debug\renameDoc.pdb
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.csprojAssemblyReference.cache
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.Form1.resources
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.Properties.Resources.resources
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.csproj.GenerateResource.cache
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.csproj.CoreCompileInputs.cache
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.exe.manifest
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.application
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.exe
+D:\MyProjectDemo\C#_Test_sln\renameDoc\renameDoc\obj\Debug\renameDoc.pdb
